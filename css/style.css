@@ -146,6 +146,11 @@ body{
 
 
 /*Kontakt sekcija*/
+.all-item-wrapper{
+    padding: 40px 20px;
+    border: 15px solid white;
+    border-radius: 20px;
+}
 .contact-section{
     background-color: #4F373B;
     border-top: 3px solid #FF942E;
